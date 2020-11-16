@@ -1,0 +1,1 @@
+Upon opening a story or defect with commit history in a Display widget,  the commit stream does not load until the modal is closed and reopened.
